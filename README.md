@@ -1,4 +1,4 @@
-# Hotel_Management_System
+# Hotel_Management_and_Reservation_System
 The Hotel Management System is a web-based application designed to facilitate the management of hotel operations and enhance the guest booking experience. This system simplifies tasks such as room bookings, user management, and staff administration, making it an ideal solution for hotels looking to streamline their processes and improve operational efficiency.
 
 # Features
